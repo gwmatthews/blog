@@ -3,86 +3,116 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/</loc>
+    <loc>localhost/about/</loc>
+    <lastmod>2020-07-02T14:07:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/</loc>
+    <lastmod>2020-07-02T14:07:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/edu/ethics/online-texts/</loc>
     <lastmod>2020-06-27T12:15:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/edu/ethics/online-texts/</loc>
-    <lastmod>2020-06-27T12:15:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gwmatthews.github.io/blog/edu/society/</loc>
+    <loc>localhost/edu/society/</loc>
     <lastmod>2020-06-27T09:37:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/edu/science/</loc>
+    <loc>localhost/edu/science/</loc>
     <lastmod>2020-06-27T09:37:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/edu/intro/</loc>
+    <loc>localhost/edu/intro/</loc>
     <lastmod>2020-06-27T09:37:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/edu/ethics/</loc>
+    <loc>localhost/edu/ethics/</loc>
     <lastmod>2020-06-27T09:35:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/edu/</loc>
+    <loc>localhost/edu/</loc>
     <lastmod>2020-06-27T09:08:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/tags/markdown/</loc>
+    <loc>localhost/tags/markdown/</loc>
     <lastmod>2020-06-26T17:36:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/edu/science/science-slideshows/</loc>
+    <loc>localhost/edu/science/science-slideshows/</loc>
     <lastmod>2020-06-26T17:36:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/tags/</loc>
+    <loc>localhost/tags/</loc>
     <lastmod>2020-06-26T17:36:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/tags/xaringan/</loc>
+    <loc>localhost/tags/xaringan/</loc>
     <lastmod>2020-06-26T17:36:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/tags/ethics/</loc>
+    <loc>localhost/tags/ethics/</loc>
     <lastmod>2020-06-26T17:29:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/edu/ethics/ethics-slideshows/</loc>
+    <loc>localhost/edu/ethics/ethics-slideshows/</loc>
     <lastmod>2020-06-26T17:29:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/edu/intro/intro-slideshows/</loc>
+    <loc>localhost/edu/intro/intro-slideshows/</loc>
     <lastmod>2020-06-26T16:43:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/tags/philosophy/</loc>
+    <loc>localhost/tags/philosophy/</loc>
     <lastmod>2020-06-26T16:43:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/blog/</loc>
+    <loc>localhost/posts/b/</loc>
+    <lastmod>2020-06-26T11:04:17-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwmatthews.github.io/blog/series/</loc>
+    <loc>localhost/posts/</loc>
+    <lastmod>2020-06-26T11:04:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/tags/second-test/</loc>
+    <lastmod>2020-06-26T11:04:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/tags/test/</loc>
+    <lastmod>2020-06-26T11:04:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/a/</loc>
+    <lastmod>2020-06-26T11:02:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost/series/</loc>
   </url>
   
 </urlset>
