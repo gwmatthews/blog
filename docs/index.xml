@@ -1,15 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend NG</title>
+    <title>g.w.m.</title>
     <link>https://gwmatthews.github.io/blog/</link>
-    <description>Recent content on Hello Friend NG</description>
+    <description>Recent content on g.w.m.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 27 Jun 2020 12:15:42 -0400</lastBuildDate>
     
 	<atom:link href="https://gwmatthews.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Online Texts</title>
+      <link>https://gwmatthews.github.io/blog/edu/ethics/online-texts/</link>
+      <pubDate>Sat, 27 Jun 2020 12:15:42 -0400</pubDate>
+      
+      <guid>https://gwmatthews.github.io/blog/edu/ethics/online-texts/</guid>
+      <description>&lt;p&gt;Here are a couple of projects I have been working on in the last few years.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Science Slideshows</title>
+      <link>https://gwmatthews.github.io/blog/edu/science/science-slideshows/</link>
+      <pubDate>Fri, 26 Jun 2020 17:36:11 -0400</pubDate>
+      
+      <guid>https://gwmatthews.github.io/blog/edu/science/science-slideshows/</guid>
+      <description>&lt;p&gt;This is all pretty self-explanatory &amp;ndash; these are some slideshows, produced once again with xaringan and R-Studio and open for reuse and remixing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ethics Slideshows</title>
+      <link>https://gwmatthews.github.io/blog/edu/ethics/ethics-slideshows/</link>
+      <pubDate>Fri, 26 Jun 2020 17:29:28 -0400</pubDate>
+      
+      <guid>https://gwmatthews.github.io/blog/edu/ethics/ethics-slideshows/</guid>
+      <description>&lt;p&gt;These are the latest iteration of online teaching materials for a distance learning ethics course I have been teaching for the last (&lt;em&gt;gasp!!&lt;/em&gt;) 20 years.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intro Slideshows</title>
+      <link>https://gwmatthews.github.io/blog/edu/intro/intro-slideshows/</link>
+      <pubDate>Fri, 26 Jun 2020 16:43:05 -0400</pubDate>
+      
+      <guid>https://gwmatthews.github.io/blog/edu/intro/intro-slideshows/</guid>
+      <description>&lt;p&gt;These slideshows were created for use in on online Introduction to Philosophy course.&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
