@@ -1,5 +1,5 @@
-baseurl      = "localhost"
-#baseurl      = "https://gwmatthews.github.io/blog/"
+#baseurl      = "localhost"
+baseurl      = "https://gwmatthews.github.io/blog/"
 title        = "g.w.m"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
