@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>https://gwmatthews.github.io/blog/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/</loc>
+    <loc>https://gwmatthews.github.io/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>https://gwmatthews.github.io/blog/series/</loc>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>https://gwmatthews.github.io/blog/tags/</loc>
   </url>
   
 </urlset>
