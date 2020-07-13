@@ -73,12 +73,12 @@ iframe[title="YouTube Video"]{
 }
 
 div#remarkbox-div {
-background-color: darkgray !important;
-padding: 20px;
-border-radius: 10px;
-margin: 40px;
-box-shadow: 2px 2px 5px black;
-opacity: 0.5;
+  background-color: darkgray !important;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 40px;
+  box-shadow: 2px 2px 5px black;
+  opacity: 0.5;
 }
 
 .photo-box {
@@ -120,7 +120,7 @@ hr {
   font-weight: bold;
 }
 
-.blurb{
+.blurb {
   padding-left: 2em;
 }
 
@@ -130,4 +130,40 @@ img[alt="self-portrait"] {
   box-shadow: 2px 2px 20px #111;
   margin: auto;
   padding: 5px;
+}
+
+#random-image {
+  width: 90%;
+  margin: auto;
+  padding: 0;
+  text-align: center;
+}
+
+.photo {
+  box-sizing: border-box;
+  max-width: 600px;
+  margin: auto;
+  padding: 5px;
+  border: 8px solid #333;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 2px 2px 5px black;
+}
+
+#photo-caption {
+  display: block;
+  width: 250px;
+  margin: auto;
+  cursor: pointer;
+  padding-top: 5px;
+  }
+
+#photo-caption a {
+  text-decoration: none;
+  color: black;
+}
+
+#photo-caption a:hover {
+  text-decoration: none;
+  color:#30bb30;
 }

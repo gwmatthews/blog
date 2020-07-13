@@ -1,26 +1,4 @@
-<script type="text/javascript">
-   var random_images_array = [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg",
-    "09.jpg",
-    "10.jpg",
-    "11.jpg",
-    "12.jpg",
-    "13.jpg",
-    "14.jpg",
-    "15.jpg"
-    ];
-    function getRandomImage(imgAr, path) {
-    path = path || 'images/'; // default path here
-    var num = Math.floor( Math.random() * imgAr.length );
-    var img = imgAr[ num ];
-    var imgStr = '<div class="photo-box"><img src="' + path + img + '" alt = "photo"></div><div class="photo-credit">photos by Jim Matthews</div>';
-    document.write(imgStr); document.close();
-}
-    getRandomImage(random_images_array);</script>
+<div id="random-image">
+     
+</div>
+

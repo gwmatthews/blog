@@ -1,17 +1,18 @@
 #baseurl      = "localhost"
-baseurl      = "https://gwmatthews.github.io/blog/"
+baseurl      = "https://g-w-matthews.com/"
 title        = "g.w.m"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
-publishDir   = "docs"
+#publishDir   = "docs"
 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  customCSS       = ["https://gwmatthews.github.io/blog/css/style.css"] 
+  customCSS       = ["/css/style.css"] 
+  
 
   # Subtitle for home
   homeSubtitle = "George W. Matthews"
