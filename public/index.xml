@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 27 Jun 2020 12:15:42 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 09:35:37 -0400</lastBuildDate>
     
 	<atom:link href="https://g-w-matthews.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Online Texts</title>
-      <link>https://g-w-matthews.com/edu/ethics/online-texts/</link>
-      <pubDate>Sat, 27 Jun 2020 12:15:42 -0400</pubDate>
+      <title>Ethics</title>
+      <link>https://g-w-matthews.com/edu/ethics/</link>
+      <pubDate>Sat, 27 Jun 2020 09:35:37 -0400</pubDate>
       
-      <guid>https://g-w-matthews.com/edu/ethics/online-texts/</guid>
-      <description>&lt;p&gt;Here are a couple of projects I have been working on in the last few years.&lt;/p&gt;</description>
+      <guid>https://g-w-matthews.com/edu/ethics/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been teaching Ethics courses online at the Pennsylvania College of Technology for about twenty years.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,21 +31,22 @@
     </item>
     
     <item>
-      <title>Ethics Slideshows</title>
-      <link>https://g-w-matthews.com/edu/ethics/ethics-slideshows/</link>
-      <pubDate>Fri, 26 Jun 2020 17:29:28 -0400</pubDate>
-      
-      <guid>https://g-w-matthews.com/edu/ethics/ethics-slideshows/</guid>
-      <description>&lt;p&gt;These are the latest iteration of online teaching materials for a distance learning ethics course I have been teaching for the last (&lt;em&gt;gasp!!&lt;/em&gt;) 20 years.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Intro Slideshows</title>
       <link>https://g-w-matthews.com/edu/intro/intro-slideshows/</link>
       <pubDate>Fri, 26 Jun 2020 16:43:05 -0400</pubDate>
       
       <guid>https://g-w-matthews.com/edu/intro/intro-slideshows/</guid>
       <description>&lt;p&gt;These slideshows were created for use in on online Introduction to Philosophy course.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A</title>
+      <link>https://g-w-matthews.com/posts/a/</link>
+      <pubDate>Fri, 26 Jun 2020 11:02:36 -0400</pubDate>
+      
+      <guid>https://g-w-matthews.com/posts/a/</guid>
+      <description>This is my first content file. It&amp;rsquo;s called a.md.
+Here is a test of raw html:</description>
     </item>
     
   </channel>
