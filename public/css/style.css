@@ -167,3 +167,7 @@ img[alt="self-portrait"] {
   text-decoration: none;
   color:#30bb30;
 }
+
+span.post-title {
+  width: 200px;
+}

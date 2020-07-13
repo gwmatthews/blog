@@ -12,14 +12,5 @@
 	<atom:link href="https://g-w-matthews.com/edu/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Ethics</title>
-      <link>https://g-w-matthews.com/edu/ethics/</link>
-      <pubDate>Sat, 27 Jun 2020 09:35:37 -0400</pubDate>
-      
-      <guid>https://g-w-matthews.com/edu/ethics/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been teaching Ethics courses online at the Pennsylvania College of Technology for about twenty years.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
