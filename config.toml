@@ -4,7 +4,7 @@ title        = "g.w.m"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
-#publishDir   = "docs"
+publishDir   = "public"
 
 [params]
   dateform        = "Jan 2, 2006"
