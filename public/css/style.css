@@ -171,3 +171,13 @@ img[alt="self-portrait"] {
 span.post-title {
   width: 200px;
 }
+
+@media (max-width: 700px){
+  .photo {
+    width: 80%;
+  }
+  
+  #photo-caption {
+    font-size: smaller;
+  }
+}
