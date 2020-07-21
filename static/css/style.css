@@ -164,7 +164,7 @@ img[alt="self-portrait"] {
 
 #photo-caption a {
   text-decoration: none;
-  color: gray;
+  color: darkgray;
 }
 
 #photo-caption a:hover {
