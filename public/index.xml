@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 27 Jun 2020 12:15:42 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 14:07:59 -0400</lastBuildDate>
     
 	<atom:link href="https://g-w-matthews.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://g-w-matthews.com/about/</link>
+      <pubDate>Thu, 02 Jul 2020 14:07:59 -0400</pubDate>
+      
+      <guid>https://g-w-matthews.com/about/</guid>
+      <description>I&amp;rsquo;m George Matthews &amp;ndash; welcome to my blog! I am a philosophy professor who also likes to mess around with websites, which I&amp;rsquo;ve mostly used for classes I teach. I have finally decided to create my own website. You&amp;rsquo;ll find here some things I have been working on lately in connection with courses I teach, and maybe if I can sit still long enough, occasional blog posts.
+This site is built with a static site generator called hugo which takes a collection of pages written basically as text files and turns them into a full-fledged website.</description>
+    </item>
     
     <item>
       <title>Online Texts</title>
@@ -46,16 +56,6 @@
       
       <guid>https://g-w-matthews.com/edu/intro/intro-slideshows/</guid>
       <description>&lt;p&gt;These slideshows were created for use in on online Introduction to Philosophy course.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A</title>
-      <link>https://g-w-matthews.com/posts/a/</link>
-      <pubDate>Fri, 26 Jun 2020 11:02:36 -0400</pubDate>
-      
-      <guid>https://g-w-matthews.com/posts/a/</guid>
-      <description>This is my first content file. It&amp;rsquo;s called a.md.
-Here is a test of raw html:</description>
     </item>
     
   </channel>

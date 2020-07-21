@@ -1,10 +1,16 @@
 ---
 title: "About"
 date: 2020-07-02T14:07:59-04:00
-draft: true
+draft: false
 ---
 
 ![self-portrait](/images/me-2.png)
 
 
-I'm George William Matthews -- welcome to my blog! Here you'll find mostly materials I use in philosophy courses I teach, but then maybe I'll start actually writing some blog posts that I have been wanting to write. This blog is built with the static website generator `hugo` which, if you are not familiar with static site generators, is a program that takes a collection of text files and automagically turns them into webpages so you don't have to slog through all of the html code yourself. Maybe soon I'll put together a blog post on how to use hugo. In the meantime Mike Dane, over at [Giraffe Academy](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw) has a great series of videos explaining how to use hugo.
+I'm George Matthews -- welcome to my blog! I am a philosophy professor who also likes to mess around with websites, which I've mostly used for classes I teach. I have finally decided to create my own website. You'll find here some things I have been working on lately in connection with courses I teach, and maybe if I can sit still long enough, occasional blog posts.
+
+This site is built with a static site generator called `hugo` which takes a collection of pages written basically as text files and turns them into a full-fledged website. I am still figuring out how to use it, so please forgive me any technical glitches, or better yet, tell me so I can fix them! 
+
+Thanks for visiting and feel free to leave comments below. 
+
+{{< hyvor >}}
