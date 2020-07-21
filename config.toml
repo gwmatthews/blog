@@ -68,6 +68,7 @@ publishDir   = "public"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+[menu]
   [[menu.main]]
     identifier = "about"
     name       = "about"
