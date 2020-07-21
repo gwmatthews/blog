@@ -176,6 +176,14 @@ span.post-title {
   width: 200px;
 }
 
+ol {
+  line-height: 1.75;
+}
+
+li {
+  padding-bottom: 2rem;
+}
+
 @media (max-width: 700px){
   .photo {
     width: 80%;

@@ -21,7 +21,7 @@ publishDir   = "public"
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you linke
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
   description = "a blog by George Matthews"
