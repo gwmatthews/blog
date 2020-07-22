@@ -12,8 +12,8 @@ Here are a couple of projects I have been working on in the last few years. <!--
 
 [Philosophical Ethics: a guidebook for beginners](https://gwmatthews.github.io/ethics/): a free, open source online and printable introductory ethics text.
 
-{{< book "https://gwmatthews.github.io/ethics/" >}}
+![image](/images/phil-ethics.png)
 
 [Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/): a free, open source textbook published by the Rebus foundation as part of a series edited By Christina Hendrix of the University of British Columbia.
 
-{{< book "https://press.rebus.community/intro-to-phil-ethics/" >}}
+![image](/images/intro-ethics.png)

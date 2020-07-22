@@ -1,6 +1,6 @@
 # baseurl      = "localhost"
 baseurl      = "https://g-w-matthews.com/"
-title        = "g.w.m"
+title        = "constantly walking"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
