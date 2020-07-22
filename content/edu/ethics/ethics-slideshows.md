@@ -19,8 +19,8 @@ What is philosophical ethics and how does it differ from other approaches?
 {{< slides "https://gwmatthews.github.io/ethics-slideshows/01-phl210-slides.html"  >}}
 
 
-- {{< a_blank  "open in new window" "https://gwmatthews.github.io/ethics-slideshows/01-phl210-slides.html"  >}}
-- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/01-phl210-slides.pdf"  >}}
+- {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/01-phl210-slides.html"  >}} /
+- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/01-phl210-slides.pdf"  >}} /
 - {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/01-phl210-handout.pdf"  >}}
 
 ***
@@ -34,8 +34,8 @@ Philosophy is all about arguments. By "arguments" we mean not so much an acrimon
 {{< slides "https://gwmatthews.github.io/ethics-slideshows/02-phl210-slides.html"  >}}
 
 
-- {{< a_blank  "open in new window" "https://gwmatthews.github.io/ethics-slideshows/02-phl210-slides.html"  >}}
-- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/02-phl210-slides.pdf"  >}}
+- {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/02-phl210-slides.html"  >}} /
+- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/02-phl210-slides.pdf"  >}} /
 - {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/02-phl210-handout.pdf"  >}}
 
 
@@ -44,24 +44,83 @@ Philosophy is all about arguments. By "arguments" we mean not so much an acrimon
 
 ### 3. Fallacies and Biases
 
-Logical reasoning is difficult. 
-
+Logical reasoning is difficult. This slideshow explores some of the major bumps in the road as we trying  
+to be a bit more logical.
 
 {{< slides "https://gwmatthews.github.io/ethics-slideshows/03-phl210-slides.html"  >}}
 
 
-- {{< a_blank  "open in new window" "https://gwmatthews.github.io/ethics-slideshows/03-phl210-slides.html"  >}}
-- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/03-phl210-slides.pdf"  >}}
+- {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/03-phl210-slides.html"  >}} /
+- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/03-phl210-slides.pdf"  >}} /
 - {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/03-phl210-handout.pdf"  >}}
 
 
-### 3. Relativsm
+### 4. Relativsm
+
+Many of us start out with the view that ethical principles are in the eyes of the beholder, and maybe this is because all of us start out learning ethical principles by imitating those around us. Is this all there is to ethics? This slideshow presents reasons to think it is not.
 
 
 {{< slides "https://gwmatthews.github.io/ethics-slideshows/04-phl210-slides.html"  >}}
 
 
-- {{< a_blank  "open in new window" "https://gwmatthews.github.io/ethics-slideshows/04-phl210-slides.html"  >}}
-- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/04-phl210-slides.pdf"  >}}
+- {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/04-phl210-slides.html"  >}} / 
+- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/04-phl210-slides.pdf"  >}} / 
 - {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/04-phl210-handout.pdf"  >}}
+
+
+### 5. Ethics and Religion
+
+Religion clearly expresses ethical claims. But does that mean that ethics is *based* on religion? And how might that even work? This slideshow examines two of the major contenders for providing a religious foundation for ethics.
+
+{{< slides "https://gwmatthews.github.io/ethics-slideshows/05-phl210-slides.html"  >}}
+
+
+- {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/05-phl210-slides.html"  >}} / 
+- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/05-phl210-slides.pdf"  >}} / 
+- {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/05-phl210-handout.pdf"  >}}
+
+### 6. Egoism
+
+Are the cynics right? Is ethics simply unrealistic because human beings are fundamentally selfish? Are the defenders of capitalism right? Is direct concern with others ultimately counterproductive? Find out here.
+
+{{< slides "https://gwmatthews.github.io/ethics-slideshows/05-phl210-slides.html"  >}}
+
+
+- {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/06-phl210-slides.html"  >}} / 
+- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/06-phl210-slides.pdf"  >}} / 
+- {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/06-phl210-handout.pdf"  >}}
+
+### 7. Social Contract Theory
+
+Maybe ethical rules really do have a solid rationale -- having **some** rules seems to be necessary for living together in relative peace an harmony. Maybe, that is, even purely self-interested rational agents would accept at least a basis set of moral principles. This is the basic claim of social contract theory, which we examine in this slideshow.
+
+{{< slides "https://gwmatthews.github.io/ethics-slideshows/07-phl210-slides.html"  >}}
+
+
+- {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/07-phl210-slides.html"  >}} / 
+- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/07-phl210-slides.pdf"  >}} / 
+- {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/07-phl210-handout.pdf"  >}}
+
+
+### 8. Utilitarianism
+
+What it means to do the right thing, may not be an obscure as it seems. After all, isn't the point of ethics to bring about the best possible outcomes in an uncertain world where we all face choices? Utilitarianism approaches the question this way and develops a full-fledged ethical theory on the basis of the idea that doing what is right just is doing what is good.
+
+{{< slides "https://gwmatthews.github.io/ethics-slideshows/08-phl210-slides.html"  >}}
+
+
+- {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/08-phl210-slides.html"  >}} / 
+- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/08-phl210-slides.pdf"  >}} / 
+- {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/08-phl210-handout.pdf"  >}}
+
+### 9. Kant's Ethics of Duty
+
+Last but not least we have Kantian ethics, which is the attempt to show how it is that moral and ethical rules are universal and binding on all rational agents. That is, Kant claims that there is a rational basis for the concept of rights. His slideshow examines Kant's main arguments.
+
+{{< slides "https://gwmatthews.github.io/ethics-slideshows/09-phl210-slides.html"  >}}
+
+
+- {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/09-phl210-slides.html"  >}} / 
+- {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/09-phl210-slides.pdf"  >}} / 
+- {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/09-phl210-handout.pdf"  >}}
 

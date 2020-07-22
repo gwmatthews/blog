@@ -58,6 +58,10 @@ iframe[title="YouTube Video"]{
   box-shadow: 2px 2px 5px black;
 }
 
+.slideshow + ul li{
+  display: inline-block;
+}
+
 div#remarkbox-div {
   background-color: darkgray !important;
   padding: 20px;
@@ -101,8 +105,15 @@ hr {
 
 .post-content a, .post-title, .green-link {
   text-decoration: none;
-  color: #30bb30;
   font-weight: bold;
+} 
+
+a:hover {
+  color: #30bb30;
+}
+
+h2.post-title a:hover{
+  color:#a9a9b3;
 }
 
 .blurb {
