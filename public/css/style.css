@@ -121,6 +121,7 @@ img[alt="image"] {
   width: 400px;
   border-radius: 20px;
   margin: 20px auto;
+  margin-bottom: 40px;
   box-shadow: 2px 2px 10px #000;
 }
 
