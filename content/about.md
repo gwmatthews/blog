@@ -13,4 +13,7 @@ This site is built with a static site generator called `hugo` which takes a coll
 
 Thanks for visiting and feel free to leave comments below. 
 
+{{<gassho>}}
+
+
 {{< hyvor >}}

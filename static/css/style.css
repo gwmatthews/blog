@@ -25,24 +25,6 @@ iframe[title="YouTube Video"]{
   box-shadow: 2px 2px 5px black; 
 }
 
-.book {
-  margin: 2em auto;
-  position: relative;
-  width: 80%;
-  height: 0;
-  padding-bottom: 120%;
-}
-
-.book iframe {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0; top: 0;
-  border: 0;
-  border-radius: 10px;
-  box-shadow: 2px 2px 5px black;
-}
-
 .embed {
   position: relative;
   width: 100%;
@@ -103,7 +85,6 @@ div#remarkbox-div {
   padding-left: 30px;
   margin: 10px 0 20px 0;
   color: #777; 
-  
 }
 
 .logo__cursor {
@@ -195,6 +176,11 @@ li {
 p {
   line-height: 1.75;
   margin-top: 40px;
+}
+
+.gassho {
+  font-size: 30px;
+  text-align: center;
 }
 
 @media (max-width: 700px){
