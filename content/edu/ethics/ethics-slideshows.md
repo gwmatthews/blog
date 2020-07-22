@@ -83,7 +83,7 @@ Religion clearly expresses ethical claims. But does that mean that ethics is *ba
 
 Are the cynics right? Is ethics simply unrealistic because human beings are fundamentally selfish? Are the defenders of capitalism right? Is direct concern with others ultimately counterproductive? Find out here.
 
-{{< slides "https://gwmatthews.github.io/ethics-slideshows/05-phl210-slides.html"  >}}
+{{< slides "https://gwmatthews.github.io/ethics-slideshows/06-phl210-slides.html"  >}}
 
 
 - {{< a_blank  "new window" "https://gwmatthews.github.io/ethics-slideshows/06-phl210-slides.html"  >}} / 
