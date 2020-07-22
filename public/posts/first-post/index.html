@@ -44,7 +44,7 @@ This is my official first blog post and I have been hemming and hawing a bit abo
 
 <meta itemprop="datePublished" content="2020-07-20T22:40:50-04:00" />
 <meta itemprop="dateModified" content="2020-07-20T22:40:50-04:00" />
-<meta itemprop="wordCount" content="484">
+<meta itemprop="wordCount" content="542">
 
 
 
@@ -168,15 +168,47 @@ This is my official first blog post and I have been hemming and hawing a bit abo
 
 <p>よろしくお願いします！</p>
 
-<div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 1022; 
-    var HYVOR_TALK_CONFIG = {
-        url: false,
-        id: false
-    };
-</script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+
+<div id="remarkbox-div">
+    <noscript>
+      <iframe id=remarkbox-iframe src="https://my.remarkbox.com/embed?nojs=true" style="height:600px;width:100%;border:none!important" tabindex=0></iframe>
+    </noscript>
+  </div>
+  <script src="https://my.remarkbox.com/static/js/iframe-resizer/iframeResizer.min.js"></script>
+  <script>
+    var rb_owner_key = "02ab2055-1622-11ea-8bfe-040140774501";
+    var thread_uri = window.location.href;
+    var thread_title = window.document.title;
+    var thread_fragment = window.location.hash;
+  
+    
+    var rb_src = "https://my.remarkbox.com/embed" + 
+        "?rb_owner_key=" + rb_owner_key +
+        "&thread_title=" + encodeURI(thread_title) +
+        "&thread_uri=" + encodeURIComponent(thread_uri) + 
+        thread_fragment;
+  
+    function create_remarkbox_iframe() {
+      var ifrm = document.createElement("iframe");
+      ifrm.setAttribute("id", "remarkbox-iframe");
+      ifrm.setAttribute("scrolling", "no");
+      ifrm.setAttribute("src", rb_src);
+      ifrm.setAttribute("frameborder", "0");
+      ifrm.setAttribute("tabindex", "0");
+      ifrm.setAttribute("title", "Remarkbox");
+      ifrm.style.width = "100%";
+      document.getElementById("remarkbox-div").appendChild(ifrm);
+    }
+    create_remarkbox_iframe();
+    iFrameResize(
+      {
+        checkOrigin: ["https://my.remarkbox.com"],
+        inPageLinks: true,
+        initCallback: function(e) {e.iFrameResizer.moveToAnchor(thread_fragment)}
+      },
+      document.getElementById("remarkbox-iframe")
+    );
+  </script>
 
       </div>
     </article>
@@ -199,7 +231,7 @@ This is my official first blog post and I have been hemming and hawing a bit abo
           <line x1="16" y1="17" x2="8" y2="17"></line>
           <polyline points="10 9 9 9 8 9"></polyline>
         </svg>
-        484 Words
+        542 Words
       </p>
 
       <p>

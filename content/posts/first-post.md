@@ -20,4 +20,4 @@ Well this is getting a bit carried way. There's is so much to explore and specul
 よろしくお願いします！
 
 
-{{< hyvor >}}
+{{< remarkbox >}}
