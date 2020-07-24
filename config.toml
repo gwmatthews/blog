@@ -38,8 +38,7 @@ publishDir   = "public"
 
 [[params.social]]
   name = "discord"
-  url  = "https://discord.com/"
-# channels/734906167477665843/734906167477665847
+  url  = "https://discord.com/users/726650756849205319"
 
 [[params.social]]
   name = "github"
