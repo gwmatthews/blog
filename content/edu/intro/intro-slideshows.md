@@ -17,47 +17,53 @@ You can navigate through each by clicking within its window and then using the a
 
 {{< slides "https://gwmatthews.github.io/philosophy-slideshows/01-phl110-slides.html">}}
 
-- [open in new window](https://gwmatthews.github.io/philosophy-slideshows/01-phl110-slides.html)
-- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/01-phl110-slides.pdf)
-- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/01-phl110-handout.pdf)
+- {{< a_blank  "new window" "https://gwmatthews.github.io/philosophy-slideshows/01-phl110-slides.html"  >}} /
+- {{< a_blank  "download" "https://gwmatthews.github.io/philosophy-slideshows/pdf/01-phl110-slides.pdf"  >}} /
+- {{< a_blank  "print" "https://gwmatthews.github.io/philosophy-slideshows/pdf/01-phl110-handout.pdf"  >}}
+
 
 ***
 
 {{< slides "https://gwmatthews.github.io/philosophy-slideshows/02-phl110-slides.html">}}
 
-- [open in new window](https://gwmatthews.github.io/philosophy-slideshows/02-phl110-slides.html)
-- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/02-phl110-slides.pdf)
-- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/02-phl110-handout.pdf)
+- {{< a_blank  "new window" "https://gwmatthews.github.io/philosophy-slideshows/02-phl110-slides.html"  >}} /
+- {{< a_blank  "download" "https://gwmatthews.github.io/philosophy-slideshows/pdf/02-phl110-slides.pdf"  >}} /
+- {{< a_blank  "print" "https://gwmatthews.github.io/philosophy-slideshows/pdf/02-phl110-handout.pdf"  >}}
+
 
 ***
 
 {{< slides "https://gwmatthews.github.io/philosophy-slideshows/03-phl110-slides.html">}}
 
-- [open in new window](https://gwmatthews.github.io/philosophy-slideshows/03-phl110-slides.html)
-- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-phl110-slides.pdf)
-- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-phl110-handout.pdf)
+- {{< a_blank  "new window" "https://gwmatthews.github.io/philosophy-slideshows/03-phl110-slides.html"  >}} /
+- {{< a_blank  "download" "https://gwmatthews.github.io/philosophy-slideshows/pdf/03-phl110-slides.pdf"  >}} /
+- {{< a_blank  "print" "https://gwmatthews.github.io/philosophy-slideshows/pdf/03-phl110-handout.pdf"  >}}
+
 
 ***
 
 {{< slides "https://gwmatthews.github.io/philosophy-slideshows/04-phl110-slides.html">}}
 
-- [open in new window](https://gwmatthews.github.io/philosophy-slideshows/04-phl110-slides.html)
-- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/04-phl110-slides.pdf)
-- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/04-phl110-handout.pdf)
+- {{< a_blank  "new window" "https://gwmatthews.github.io/philosophy-slideshows/04-phl110-slides.html"  >}} /
+- {{< a_blank  "download" "https://gwmatthews.github.io/philosophy-slideshows/pdf/04-phl110-slides.pdf"  >}} /
+- {{< a_blank  "print" "https://gwmatthews.github.io/philosophy-slideshows/pdf/04-phl110-handout.pdf"  >}}
+
 
 ***
 
 {{< slides "https://gwmatthews.github.io/philosophy-slideshows/05-phl110-slides.html">}}
 
-- [open in new window](https://gwmatthews.github.io/philosophy-slideshows/05-phl110-slides.html)
-- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/05-phl110-slides.pdf)
-- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/05-phl110-handout.pdf)
+- {{< a_blank  "new window" "https://gwmatthews.github.io/philosophy-slideshows/05-phl110-slides.html"  >}} /
+- {{< a_blank  "download" "https://gwmatthews.github.io/philosophy-slideshows/pdf/05-phl110-slides.pdf"  >}} /
+- {{< a_blank  "print" "https://gwmatthews.github.io/philosophy-slideshows/pdf/05-phl110-handout.pdf"  >}}
+
 
 ***
 
 {{< slides "https://gwmatthews.github.io/philosophy-slideshows/06-phl110-slides.html">}}
 
-- [open in new window](https://gwmatthews.github.io/philosophy-slideshows/06-phl110-slides.html)
-- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/06-phl110-slides.pdf)
-- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/06-phl110-handout.pdf)
+- {{< a_blank  "new window" "https://gwmatthews.github.io/philosophy-slideshows/06-phl110-slides.html"  >}} /
+- {{< a_blank  "download" "https://gwmatthews.github.io/philosophy-slideshows/pdf/06-phl110-slides.pdf"  >}} /
+- {{< a_blank  "print" "https://gwmatthews.github.io/philosophy-slideshows/pdf/06-phl110-handout.pdf"  >}}
+
 

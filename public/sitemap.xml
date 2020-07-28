@@ -3,8 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://g-w-matthews.com/posts/first-post/</loc>
+    <lastmod>2020-07-20T22:40:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://g-w-matthews.com/</loc>
-    <lastmod>2020-06-27T12:15:42-04:00</lastmod>
+    <lastmod>2020-07-20T22:40:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://g-w-matthews.com/posts/</loc>
+    <lastmod>2020-07-20T22:40:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://g-w-matthews.com/tags/random-thoughts/</loc>
+    <lastmod>2020-07-20T22:40:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://g-w-matthews.com/tags/</loc>
+    <lastmod>2020-07-20T22:40:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://g-w-matthews.com/about/</loc>
+    <lastmod>2020-07-02T14:07:59-04:00</lastmod>
   </url>
   
   <url>
@@ -48,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://g-w-matthews.com/tags/</loc>
-    <lastmod>2020-06-26T17:36:11-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://g-w-matthews.com/tags/xaringan/</loc>
     <lastmod>2020-06-26T17:36:11-04:00</lastmod>
   </url>
@@ -75,16 +95,6 @@
   <url>
     <loc>https://g-w-matthews.com/tags/philosophy/</loc>
     <lastmod>2020-06-26T16:43:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://g-w-matthews.com/posts/a/</loc>
-    <lastmod>2020-06-26T11:02:36-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://g-w-matthews.com/posts/</loc>
-    <lastmod>2020-06-26T11:02:36-04:00</lastmod>
   </url>
   
   <url>

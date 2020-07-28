@@ -1,6 +1,6 @@
-#baseurl      = "localhost"
+# baseurl      = "localhost"
 baseurl      = "https://g-w-matthews.com/"
-title        = "g.w.m"
+title        = "constantly walking"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -21,7 +21,7 @@ publishDir   = "public"
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you linke
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
   description = "a blog by George Matthews"
@@ -30,7 +30,21 @@ publishDir   = "public"
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+  
+# Social icons
+[[params.social]]
+  name = "twitter"
+  url  = "https://twitter.com/geoslack"
 
+[[params.social]]
+  name = "discord"
+  url  = "https://discord.com/users/726650756849205319"
+
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/gwmatthews"
+
+  
 [taxonomies]
     category = "blog"
     tag      = "tags"
@@ -38,7 +52,7 @@ publishDir   = "public"
 
 [languages]
   [languages.en]
-    title = "g.w.m."
+    title = "constantly walking"
     subtitle = "George W. Matthews' blog"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -53,9 +67,14 @@ publishDir   = "public"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "about"
+    url        = "/about"
   [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
+    name       = "blog"
     url        = "/posts"
 	[[menu.main]]
     identifier = "edu"
