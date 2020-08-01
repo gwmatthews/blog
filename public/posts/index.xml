@@ -6,8 +6,25 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Mon, 20 Jul 2020 22:40:50 -0400</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2020 13:06:34 -0400</lastBuildDate>
         <atom:link href="https://g-w-matthews.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>A Choice</title>
+            <link>https://g-w-matthews.com/posts/a-choice/</link>
+            <pubDate>Fri, 31 Jul 2020 13:06:34 -0400</pubDate>
+            
+            <guid>https://g-w-matthews.com/posts/a-choice/</guid>
+            <description>Our currently interesting times are also very instructive, if only we can find the willingness to heed this instruction. As in other critical moments we are faced with a stark choice: do we acknowledge the full gravity of our situation? This would mean opening our imaginations to some pretty horrifying scenes &amp;ndash; hospitals overflowing again in more places than earlier this year, many more long term illnesses among us and premature death for thousands more of our friends, neighbors and family members.</description>
+            <content type="html"><![CDATA[<p><img src="/images/dice.jpg" alt="image"></p>
+<p>Our currently interesting times are also very instructive, if only we can find the willingness to heed this instruction. As in other critical moments we are faced with a stark choice: do we acknowledge the full gravity of our situation? This would mean opening our imaginations to some pretty horrifying scenes &ndash; hospitals overflowing again in more places than earlier this year, many more long term illnesses among us and premature death for thousands more of our friends, neighbors and family members.  Or do we attempt to hide behind false assurances that things are not so bad, or that the perception that they really are That Bad is nothing but another example of the exaggeration of the liberal media?</p>
+<p>And behind this choice lies another choice about how to make sense of the upheavals we find ourselves living in. Do we take the slow, methodical approach to of science, always remembering to hedge our claims with degrees of likelihood but willing to state clearly when things are not going so well, and what needs to be done to change that. Or do we desperately cling to the vivid fantasies of conspiracy theories in an attempt to make this all somebody else&rsquo;s fault and not a predictable but uncaring natural phenomenon, the damage of which we are tasked with containing. Add to this the &ldquo;novelty&rdquo; of the virus that began it all. Its unknowns can lead to more data collection and the slow but steady revisions of best explanations, as well as recommendations of best practices. Or they can lead us to fall back on the grand narrative that it&rsquo;s all a plot by <code>__&lt;Fill in the blank with your nefarious THEM.&gt;__</code> to keep us quiet under their crushing power. Add to the mix the widespread but false idea that the constant revision of scientific understanding of what&rsquo;s going on around us, is a since of the weakness of science as a guide. In fact it is in its willingness to change explanations, diagnoses, and recommendations for action that makes science such a crucial guide for us all. Science is not magic &ndash; it will not solve all of our problems without effort. It is nothing but a self-organizing way of taking seriously the advice not to say more than you really know. Science is self organizing in that it is constantly revising itself according to critical reflection on its own methods and tools. It is a collective process as well and this is what enables it to claim &ldquo;objectivity&rdquo; above all. As Linus&rsquo; Law (one motto of the open-source software movement) has it,</p>
+<blockquote>
+<p>&ldquo;Given enough eyeballs all bugs are shallow.&rdquo;</p>
+</blockquote>
+<p>This, in short, in the choice we all face as individuals, and in the many diverse and overlapping social networks that we are part of. It is choice essentially about what role we should play in our own lives.</p>
+]]></content>
+        </item>
         
         <item>
             <title>By Way of a First Post</title>
@@ -18,19 +35,14 @@
             <description>Hi everyone,
 This is my official first blog post and I have been hemming and hawing a bit about what I&amp;rsquo;d like to write about. I probably won&amp;rsquo;t get very far with this but at least I&amp;rsquo;ll use it to mention a few things that I have been thinking about lately and that I might take the time to pursue a bit further. In no particular order, here are some things that have been on my mind.</description>
             <content type="html"><![CDATA[<p>Hi everyone,</p>
-
 <p>This is my official first blog post and I have been hemming and hawing a bit about what I&rsquo;d like to write about. I probably won&rsquo;t get very far with this but at least I&rsquo;ll use it to mention a few things that I have been thinking about lately and that I might take the time to pursue a bit further. In no particular order, here are some things that have been on my mind.</p>
-
 <ol>
 <li><strong>code.</strong> I confess to being endlessly fascinated by code. I am finally learning javascript for real, but have spent much time over the last twenty years bashing code around in one way or another &ndash; HTML, css, linux, bash scripting, Makefiles, WordPress, B2Evolution, LaTeX, and more recently markdown, hugo, and a little bit of MongoDB. Maybe I&rsquo;ll do more than sample these and gain enough knowledge to shift directions and actually become a web developer. But then I&rsquo;d have to get a real job. Maybe I&rsquo;ll just take a taste here and there and marvel at the sheer complexity of the symbolic systems us humans have created in the last three quarters of a century. Anyway, that&rsquo;s one topic I&rsquo;d like to explore here.</li>
 <li><strong>mental templates.</strong> Along with my obsession with the programmatic ways in which we communicate with the logic machines that have taken over our lives has been a parallel obsession with understanding things like political ideology, religious belief, and even rote, everyday conversation. We all seem to be following mental templates most of the time and rarely even notice this. It seems to me that most of the time, most people are not actually doing any real thinking at all, at least if thinking involves deliberately following thoughts explicitly and consciously. Instead we mostly recite scripts and repeat recycled ideas however incoherent they may prove to be on closer examination. And even more, most people believe that they are really thinking for themselves and NOT just following formulas. What gives?</li>
 <li><strong>embodied intelligence.</strong> Why is it that our intelligence is so different than that of the machines I have been talking about? It seems to me that a large part of the answer has to do with the fact that our minds are just as much in our bodies as in our heads, operating according to the physical, emotional and kinaesthetic constraints built-in to our bodies. And besides this our minds are just as much outside of our heads and bodies as they are inside, influenced in all kinds of ways by the languages we speak, the social codes and conventions we internalize, and the stories we tell about ourselves and each other. We not only think, but we care about what we think and what others think that we think and that sets us apart from our machines. I wonder if true machine intelligence might involve getting the machines we build to care. Is that an essential part of any intelligence or an accident only connected with the biological origins of ours?</li>
 </ol>
-
 <p>Well this is getting a bit carried way. There&rsquo;s is so much to explore and speculate on, and I&rsquo;ll write more when I am feeling more focus. So much for a first post.</p>
-
 <p>よろしくお願いします！</p>
-
 
 <div id="remarkbox-div">
     <noscript>
