@@ -55,7 +55,7 @@ Logical reasoning is difficult.
 - {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/03-phl210-handout.pdf"  >}}
 
 
-### 3. Relativsm
+### 3. Relativism
 
 
 {{< slides "https://gwmatthews.github.io/ethics-slideshows/04-phl210-slides.html"  >}}
