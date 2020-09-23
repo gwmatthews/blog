@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on g.w.m.</title>
+        <title>Posts on constantly walking</title>
         <link>https://g-w-matthews.com/posts/</link>
-        <description>Recent content in Posts on g.w.m.</description>
+        <description>Recent content in Posts on constantly walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
@@ -84,23 +84,6 @@ This is my official first blog post and I have been hemming and hawing a bit abo
       document.getElementById("remarkbox-iframe")
     );
   </script>
-]]></content>
-        </item>
-        
-        <item>
-            <title>A</title>
-            <link>https://g-w-matthews.com/posts/a/</link>
-            <pubDate>Fri, 26 Jun 2020 11:02:36 -0400</pubDate>
-            
-            <guid>https://g-w-matthews.com/posts/a/</guid>
-            <description>This is my first content file. It&amp;rsquo;s called a.md.
-Here is a test of raw html:</description>
-            <content type="html"><![CDATA[<p>This is my first content file. It&rsquo;s called a.md.</p>
-<p>Here is a test of raw html:</p>
-
-
-  
-
 ]]></content>
         </item>
         

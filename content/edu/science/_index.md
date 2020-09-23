@@ -8,4 +8,4 @@ blackFriday:
 
 ---
 
-In recent years I've been teaching a course at Plymouth State University called "Science or Superstition."<!--more-->This is a general education course that explores the history and philosophy of science, as well as the ways we tend to get things wrong when we attempt to explain and describe the world around us. It is part scientific-literacy, part critical thinking, part cognitive psychology. The course <a href="http://www.6worlds.net/science-blog/" class="green-link" target="_blank">reading list and blog</a> can be found here. Below you can find course slideshows.
+In recent years I've been teaching a course at Plymouth State University called "Science or Superstition." This is a general education course that explores the history and philosophy of science, as well as the ways we tend to get things wrong when we attempt to explain and describe the world around us. <!--more--> It is part scientific-literacy, part critical thinking, part cognitive psychology. The course {{< a_blank  "reading list and blog" "https://www.6worlds.net/science-blog/"  >}} can be found here. Below you can find course slideshows.
