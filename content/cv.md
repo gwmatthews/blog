@@ -11,11 +11,11 @@ Philosophy lives in dialogue and our networked world offers many free and open w
 
 ### Recent work:
 
-- [Science or Superstition](https://www.6worlds.net/science-blog/) course textbook and student blog.
+- {{% a_blank "Science or Superstition" "https://www.6worlds.net/science-blog/" %}}: course textbook and student blog.
 
-- [Ethics: an open source textbook](https://gwmatthews.github.io/ethics/) built with Bookdown and Rstudio formatted as responsive html, printable pdf, hosted at github
+- {{% a_blank "Philosophical Ethics" "https://gwmatthews.github.io/ethics/" %}}: an open textbook built with Bookdown and Rstudio formatted as responsive html, printable pdf, hosted at github.
 
-- [Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/). An open source textbook edited by me.
+- {{% a_blank "Introduction to Philosophy: Ethics" "https://press.rebus.community/intro-to-phil-ethics/" %}}. An open source textbook edited by me.
 
 ### Education:
 
