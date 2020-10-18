@@ -76,6 +76,10 @@ publishDir   = "public"
     identifier = "blog"
     name       = "blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "cv"
+    name       = "cv"
+    url        = "/cv"
 	[[menu.main]]
     identifier = "edu"
     name       = "edu"
