@@ -54,14 +54,9 @@ to be a bit more logical.
 - {{< a_blank  "download" "https://gwmatthews.github.io/ethics-slideshows/pdf/03-phl210-slides.pdf"  >}} /
 - {{< a_blank  "print" "https://gwmatthews.github.io/ethics-slideshows/pdf/03-phl210-handout.pdf"  >}}
 
-
-<<<<<<< HEAD
-### 3. Relativism
-=======
 ### 4. Relativsm
 
 Many of us start out with the view that ethical principles are in the eyes of the beholder, and maybe this is because all of us start out learning ethical principles by imitating those around us. Is this all there is to ethics? This slideshow presents reasons to think it is not.
->>>>>>> b92ad0487908333968e407ef3666d8be43d3c038
 
 
 {{< slides "https://gwmatthews.github.io/ethics-slideshows/04-phl210-slides.html"  >}}
