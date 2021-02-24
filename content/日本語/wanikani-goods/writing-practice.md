@@ -15,7 +15,7 @@ blackFriday:
 - [ひらがな](/pdf/hiragana-practice.pdf) / [a4 paper](/pdf/hiragana-practice-a4.pdf)
 - [ひらがな](/pdf/hiragana-practice-sm.pdf) / [a4 paper](/pdf/hiragana-practice-sm-a4.pdf), smaller characters
 - [カタカナ](/pdf/katakana-practice.pdf) / [a4 paper](/pdf/katakana-practice-a4.pdf)
-- [カタカナ](/pdf/hiragana-practice-sm.pdf) / [a4 paper](/pdf/hiragana-practice-sm-a4.pdf), smaller characters
+- [カタカナ](/pdf/katakana-practice-sm.pdf) / [a4 paper](/pdf/katakana-practice-sm-a4.pdf), smaller characters
 
 
 ### kanji
