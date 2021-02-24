@@ -10,6 +10,8 @@ blackFriday:
 
 ---
 
+These writing practice sheets are intended as clear, efficient and clutter-free printable worksheets for practicing japanese writing with a pen, pencil, brush or brush pen. They have no english translations, and in the case of kanji, just a single, often onyomi reading. The point here is focusing on the character, keeping out english clutter and not including all linguistic information you might want about the item. 
+
 ### kana
 
 - [ひらがな](/pdf/hiragana-practice.pdf) / [a4 paper](/pdf/hiragana-practice-a4.pdf)
