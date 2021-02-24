@@ -33,6 +33,9 @@ blackFriday:
   -- [a4 paper](/zips/WK-brush-a4.zip)
 
 - JLPT: each archive contains 1 file for each of the five levels.
+
+[Sample file](/pdf/JLPT-5-witing.pdf) / [Small characters](/pdf/JLPT-5-writing-sm.pdf)
+
   - [Medium kanji](/zips/JLPT.zip)  (6 kanji per page) 
   -- [a4 paper](/zips/JLPT-a4.zip)
   - [Small kanji](/zips/JLPT-sm.zip)  (8 kanji per page) 
