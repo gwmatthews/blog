@@ -85,6 +85,10 @@ publishDir   = "public"
     name       = "edu"
     url        = "/edu"
     [[menu.main]]
+    identifier = "medium"
+    name = "medium"
+    url = "/medium"
+    [[menu.main]]
     identifier = "日本語"
     name       = "日本語"
     url        = "/日本語"
