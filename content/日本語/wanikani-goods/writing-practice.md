@@ -22,7 +22,7 @@ blackFriday:
 
 [Sample file](/pdf/WK-11-15-writing.pdf), sample [brush practice](/pdf/WK-16-20-fancy-writing.pdf).
 
-- WK sets: each zipped archive contains 12 pdf files, one for each set of 5 Wanikani levels. 
+Wanikani sets: each zipped archive contains 12 pdf files, one for each set of 5 Wanikani levels. 
   - [Medium kanji](/zips/WK.zip)  (6 kanji per page) 
   -- [a4 paper](/zips/WK-a4.zip)
   - [Large kanji](/zips/WK-lg.zip)  (4 kanji per page)
@@ -32,7 +32,7 @@ blackFriday:
   - [Brush practice](/zips/WK-brush.zip)  (6 kanji per page) 
   -- [a4 paper](/zips/WK-brush-a4.zip)
 
-- JLPT: each archive contains 1 file for each of the five levels.
+JLPT: each archive contains 1 file for each of the five levels.
 
 [Sample file](/pdf/JLPT-5-witing.pdf) / [Small characters](/pdf/JLPT-5-writing-sm.pdf)
 
