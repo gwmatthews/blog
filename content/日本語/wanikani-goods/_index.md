@@ -1,6 +1,6 @@
 ---
 title: "Wanikani goods"
-date: 2020-06-26T17:36:11-04:00
+date: 2021-01-02T17:36:11-04:00
 draft: false
 tags: ["language", "kanji", "Japanese"]
 category: ["Japanese"]

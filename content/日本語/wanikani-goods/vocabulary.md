@@ -1,6 +1,6 @@
 ---
 title: "Waniakani Vocabulary"
-date: 2020-06-26T17:36:11-04:00
+date: 2021-02-23T17:00:11-04:00
 draft: false
 tags: ["language", "kanji", "Japanese"]
 category: ["Japanese"]
@@ -10,7 +10,7 @@ blackFriday:
 
 ---
 
-Wanikani uses a structured repetition system as th ebackbone of its approach to memorizing kanji. To help reinforce the readings it also has a ton of vocabulary to learn. To help me keep track of this vocubulary and get some extra reading practice I have created some printable vocabulary sheets. Think of these as cheat sheets or study aids rather than as flashcards.
+Wanikani uses a structured repetition system as the backbone of its approach to teaching the kanji. To help reinforce the readings it also has a ton of vocabulary to learn. To help me keep track of this vocubulary and get some extra reading practice I have created some printable vocabulary sheets. Think of these as cheat sheets or study aids rather than as flashcards.
 
 - Wankikani vocabulary, [levels 1 -- 20](/pdf/vocabulary-1-20.pdf)
 - Wankikani vocabulary, [levels 21 -- 40](/pdf/vocabulary-21-40.pdf)

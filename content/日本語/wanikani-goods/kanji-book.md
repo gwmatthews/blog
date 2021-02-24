@@ -1,6 +1,6 @@
 ---
 title: "Kanji Book"
-date: 2020-06-26T17:36:11-04:00
+date: 2021-02-23T17:05:11-04:00
 draft: false
 tags: ["language", "kanji", "Japanese"]
 category: ["Japanese"]
@@ -12,6 +12,8 @@ blackFriday:
 
 This started out as an attempt to sort kanji by readings and ended up as a handbound reference book with all of the wanikani kanji, sorted by the first mostly onyomi reading. 
 
+![book](/images/kanji-book.jpg)
+
 There are two ways to print these. 
 
 - As full sized sheets to be bound on the long edge. Printed with [plain font](/pdf/WK-kanji-1-60-plain.pdf) or with the [stroke order font](/pdf/WK-kanji-1-60-strokes.pdf).
@@ -19,7 +21,7 @@ There are two ways to print these.
 
 {{< video >}} 
 
-<iframe src="https://www.youtube.com/embed/S2FRKbQI2kY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/S2FRKbQI2kY"></iframe>
 
 {{< /video >}}
 
