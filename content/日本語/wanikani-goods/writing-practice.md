@@ -22,7 +22,7 @@ These writing practice sheets are intended as clear, efficient and clutter-free 
 
 ### kanji
 
-These grew out of my use of Wanikani and online (paid) service for learning a great many kanji. They are organized by Wanikani Levels, but also by JLPT levels as well. The kanji are roughly the same in either list, if you follow wani-kani's order clearly you;d find that version more useful. 
+These grew out of my use of Wanikani an online service for learning a great many kanji. They are organized by Wanikani Levels, but also by JLPT levels as well. The kanji are roughly the same in either list, if you follow wani-kani's order clearly you;d find that version more useful. 
 
 [Sample file](/pdf/WK-11-15-writing.pdf), sample [brush practice](/pdf/WK-16-20-fancy-writing.pdf).
 
