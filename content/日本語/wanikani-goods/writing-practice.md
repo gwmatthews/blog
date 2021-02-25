@@ -20,6 +20,8 @@ These writing practice sheets are intended as clear, efficient and clutter-free 
 - [カタカナ](/pdf/katakana-practice-sm.pdf) / [a4 paper](/pdf/katakana-practice-sm-a4.pdf), smaller characters
 
 
+![writing](/images/writing.jpg)
+
 ### kanji
 
 These grew out of my use of Wanikani an online service for learning a great many kanji. They are organized by Wanikani Levels, but also by JLPT levels as well. The kanji are roughly the same in either list, if you follow wani-kani's order clearly you;d find that version more useful. 
