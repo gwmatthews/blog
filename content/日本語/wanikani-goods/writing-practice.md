@@ -17,10 +17,9 @@ These writing practice sheets are intended as clear, efficient and clutter-free 
 - [カタカナ](/pdf/katakana-practice-sm.pdf) / [a4 paper](/pdf/katakana-practice-sm-a4.pdf), smaller characters
 
 
-<div class="photo">
-<img src="/images/writing.jpg" width=80% height="auto">
 
-</div>
+{{< image src="/images/writing.jpg" alt="writing" position="center" style="border-radius: 8px;" >}}
+
 
 ### kanji
 
