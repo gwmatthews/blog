@@ -29,7 +29,12 @@ publishDir   = "public"
   images = [""]
 
   # Default theme "light" or "dark"
-  defaultTheme = "light"
+ # Default theme "light" or "dark"
+  #
+  defaultTheme = "dark"
+  themeColor = "#1b1c1d"
+
+
   
 # Social icons
 [[params.social]]
