@@ -2,9 +2,7 @@
 title: "Shirokuma Cafe"
 date: 2021-01-15T09:35:37-04:00
 draft: false
-blackFriday: 
-   plainIDAnchors: true
-   hrefTargetBlank: true
+
    
 ---
 

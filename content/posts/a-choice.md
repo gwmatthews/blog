@@ -1,7 +1,7 @@
 ---
 title: "A Choice"
 date: 2020-07-31T13:06:34-04:00
-draft: falseserver
+draft: false
 toc: false
 images: 
 tags:

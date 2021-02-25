@@ -4,9 +4,6 @@ date: 2021-02-23T17:05:11-04:00
 draft: false
 tags: ["language", "kanji", "Japanese"]
 category: ["Japanese"]
-blackFriday: 
-   plainIDAnchors: true
-   hrefTargetBlank: true
 
 ---
 
