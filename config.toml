@@ -31,8 +31,8 @@ publishDir   = "public"
   # Default theme "light" or "dark"
  # Default theme "light" or "dark"
   #
-  defaultTheme = "dark"
-  themeColor = "#1b1c1d"
+#  defaultTheme = "dark"
+#  themeColor = "#1b1c1d"
 
 
   
