@@ -42,8 +42,8 @@ JLPT: each archive contains 1 file for each of the five levels.
 [Sample file](/pdf/JLPT-5-writing.pdf) / [Small characters](/pdf/JLPT-5-writing-sm.pdf) / [Brush practice](/pdf/JLPT-5-fancy-writing.pdf)
 
   - [Medium kanji](/zips/JLPT.zip)  (6 kanji per page) 
-  -- [a4 paper](/zips/JLPT-a4.zip)
-  - [Brush Practice](/zips/JLPT-brush.zip)
+  -- [a4 paper](/zips/JLPT-a4.zip) 
+  - [Brush Practice](/zips/JLPT-brush.zip) (6 kanji per page, hiragana readings)
   - [Small kanji](/zips/JLPT-sm.zip)  (8 kanji per page) 
   -- [a4 paper](/zips/JLPT-sm-a4.zip)
 
