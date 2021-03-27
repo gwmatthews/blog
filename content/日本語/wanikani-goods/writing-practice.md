@@ -39,7 +39,7 @@ Wanikani sets: each zipped archive contains 12 pdf files, one for each set of 5 
 
 JLPT: each archive contains 1 file for each of the five levels.
 
-[Sample file](/pdf/JLPT-5-writing.pdf) / [Small characters](/pdf/JLPT-5-writing-sm.pdf) / [Brush practice](/pdf/JLPT-5-fancy-writing,pdf)
+[Sample file](/pdf/JLPT-5-writing.pdf) / [Small characters](/pdf/JLPT-5-writing-sm.pdf) / [Brush practice](/pdf/JLPT-5-fancy-writing.pdf)
 
   - [Medium kanji](/zips/JLPT.zip)  (6 kanji per page) 
   -- [a4 paper](/zips/JLPT-a4.zip)
