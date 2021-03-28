@@ -31,7 +31,7 @@ publishDir   = "public"
   # Default theme "light" or "dark"
  # Default theme "light" or "dark"
   #
-#  defaultTheme = "dark"
+  defaultTheme = "dark"
 #  themeColor = "#1b1c1d"
 
 
@@ -48,6 +48,10 @@ publishDir   = "public"
 [[params.social]]
   name = "github"
   url  = "https://github.com/gwmatthews"
+
+  [[params.social]]
+  name = "instagram"
+  url  = "https://instagram.com/geoslack"
 
   
 [taxonomies]
