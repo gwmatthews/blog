@@ -42,10 +42,6 @@ publishDir   = "public"
   url  = "https://twitter.com/geoslack"
 
 [[params.social]]
-  name = "discord"
-  url  = "https://discord.com/users/726650756849205319"
-
-[[params.social]]
   name = "github"
   url  = "https://github.com/gwmatthews"
 
