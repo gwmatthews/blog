@@ -91,7 +91,8 @@ This is my official first blog post and I have been hemming and hawing a bit abo
       <pubDate>Thu, 02 Jul 2020 14:07:59 -0400</pubDate>
       
       <guid>https://g-w-matthews.com/about/</guid>
-      <description>I&amp;rsquo;m George Matthews &amp;ndash; welcome to my blog! I am a philosophy professor who also likes to mess around with websites, which I&amp;rsquo;ve mostly used for classes I teach. I have finally decided to create my own website. You&amp;rsquo;ll find here some things I have been working on lately in connection with courses I teach, and maybe if I can sit still long enough, occasional blog posts. Check out my CV.</description>
+      <description>I&amp;rsquo;m George Matthews &amp;ndash; welcome to my blog! I am a philosophy professor who also likes to mess around with code. I have finally decided to create my own website. You&amp;rsquo;ll find here some things I have been working on lately in connection with courses I teach, and maybe if I can sit still long enough, occasional blog posts. Check out my CV.
+This site is built with a static site generator called hugo which takes a collection of pages written basically as text files and turns them into a full-fledged website.</description>
     </item>
     
     <item>
