@@ -5,16 +5,16 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
-<meta name="description" content="" />
+<meta name="description" content="This is a collection of online materials I have been using in courses that I teach." />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
-<link rel="canonical" href="https://g-w-matthews.com/tags/" />
+<link rel="canonical" href="https://g-w-matthews.com/edu/" />
 
 
     <title>
         
-            Tags :: constantly walking  — George W. Matthews&#39; blog
+            edu :: constantly walking  — George W. Matthews&#39; blog
         
     </title>
 
@@ -36,21 +36,21 @@
 
 
 
-<meta itemprop="name" content="Tags">
+<meta itemprop="name" content="edu">
 <meta itemprop="description" content="a blog by George Matthews">
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://g-w-matthews.com/"/>
 
-<meta name="twitter:title" content="Tags"/>
+<meta name="twitter:title" content="edu"/>
 <meta name="twitter:description" content="a blog by George Matthews"/>
 
 
 
 
-    <meta property="og:title" content="Tags" />
+    <meta property="og:title" content="edu" />
 <meta property="og:description" content="a blog by George Matthews" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://g-w-matthews.com/tags/" /><meta property="og:image" content="https://g-w-matthews.com/"/><meta property="og:site_name" content="constantly walking" />
+<meta property="og:url" content="https://g-w-matthews.com/edu/" /><meta property="og:image" content="https://g-w-matthews.com/"/><meta property="og:site_name" content="constantly walking" />
 
 
 
@@ -58,9 +58,11 @@
 
 
 
+    <meta property="article:published_time" content="2020-06-27 09:08:19 -0400 EDT" />
 
 
-<link rel="alternate" type="application/rss+xml" href="https://g-w-matthews.com/tags/index.xml" title="constantly walking" />
+
+<link rel="alternate" type="application/rss+xml" href="https://g-w-matthews.com/edu/index.xml" title="constantly walking" />
 
 
 
@@ -114,109 +116,40 @@
     
     
     <main class="posts">
-        <h1>Tags</h1>
+        <h1>edu</h1>
 
+        
+            <div class="content"><p>This is a collection of online materials I have been using in courses that I teach.</p>
+</div>
         
 
         
             <div class="posts-group">
-                <div class="post-year">2021</div>
+                
 
                 <ul class="posts-list">
                     
                         <li class="post-item">
-                            <a href="https://g-w-matthews.com/tags/language/">
-                                <span class="post-title">language</span>
-                                <span class="post-day">
-                                    
-                                        Aug 2
-                                    
-                                </span>
+                            <a href="https://g-w-matthews.com/edu/ethics/">
+                                <span class="post-title">Ethics</span>
+                                <span class="blurb"><p>I&rsquo;ve been teaching Ethics courses online at the Pennsylvania College of Technology for about twenty years.</p></span>
+                                
                             </a>
                         </li>
                     
                         <li class="post-item">
-                            <a href="https://g-w-matthews.com/tags/kanji/">
-                                <span class="post-title">kanji</span>
-                                <span class="post-day">
-                                    
-                                        Aug 2
-                                    
-                                </span>
+                            <a href="https://g-w-matthews.com/edu/intro/">
+                                <span class="post-title">Introduction to Philosophy</span>
+                                <span class="blurb"><p>In addition to ethics I also regularly teach Introduction to Philosophy online at Penn College. In spite of the fact that this course can only skim the surface of philosophical debate and analysis I never get bored with this course.</p></span>
+                                
                             </a>
                         </li>
                     
                         <li class="post-item">
-                            <a href="https://g-w-matthews.com/tags/japanese/">
-                                <span class="post-title">Japanese</span>
-                                <span class="post-day">
-                                    
-                                        Aug 2
-                                    
-                                </span>
-                            </a>
-                        </li>
-                    
-                </ul>
-            </div>
-        
-            <div class="posts-group">
-                <div class="post-year">2020</div>
-
-                <ul class="posts-list">
-                    
-                        <li class="post-item">
-                            <a href="https://g-w-matthews.com/tags/untagged/">
-                                <span class="post-title">untagged</span>
-                                <span class="post-day">
-                                    
-                                        Jul 31
-                                    
-                                </span>
-                            </a>
-                        </li>
-                    
-                        <li class="post-item">
-                            <a href="https://g-w-matthews.com/tags/random-thoughts/">
-                                <span class="post-title">random thoughts</span>
-                                <span class="post-day">
-                                    
-                                        Jul 20
-                                    
-                                </span>
-                            </a>
-                        </li>
-                    
-                        <li class="post-item">
-                            <a href="https://g-w-matthews.com/tags/xaringan/">
-                                <span class="post-title">xaringan</span>
-                                <span class="post-day">
-                                    
-                                        Jun 26
-                                    
-                                </span>
-                            </a>
-                        </li>
-                    
-                        <li class="post-item">
-                            <a href="https://g-w-matthews.com/tags/markdown/">
-                                <span class="post-title">markdown</span>
-                                <span class="post-day">
-                                    
-                                        Jun 26
-                                    
-                                </span>
-                            </a>
-                        </li>
-                    
-                        <li class="post-item">
-                            <a href="https://g-w-matthews.com/tags/philosophy/">
-                                <span class="post-title">philosophy</span>
-                                <span class="post-day">
-                                    
-                                        Jun 26
-                                    
-                                </span>
+                            <a href="https://g-w-matthews.com/edu/science/">
+                                <span class="post-title">Science or Superstition</span>
+                                <span class="blurb"><p>In recent years I&rsquo;ve been teaching a course at Plymouth State University called &ldquo;Science or Superstition.&rdquo; This is a general education course that explores the history and philosophy of science, as well as the ways we tend to get things wrong when we attempt to explain and describe the world around us.</p></span>
+                                
                             </a>
                         </li>
                     
