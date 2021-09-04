@@ -9,34 +9,12 @@
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 27 Jun 2020 09:35:37 -0400</lastBuildDate><atom:link href="https://g-w-matthews.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kanji Book</title>
-      <link>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/kanji-book/</link>
-      <pubDate>Tue, 23 Feb 2021 17:05:11 -0400</pubDate>
+      <title>Wanikani goods</title>
+      <link>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/</link>
+      <pubDate>Mon, 02 Aug 2021 17:36:11 -0400</pubDate>
       
-      <guid>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/kanji-book/</guid>
-      <description>This started out as an attempt to sort kanji by readings and ended up as a handbound reference book with all of the wanikani kanji, sorted by the first mostly onyomi reading.
-There are two ways to print these.
- As full sized sheets to be bound on the long edge. Printed with plain font or with the stroke order font. As smaller pages to be printed in signatures and bound in a book using any number of hand binding techniques.</description>
-    </item>
-    
-    <item>
-      <title>Waniakani Vocabulary</title>
-      <link>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/vocabulary/</link>
-      <pubDate>Tue, 23 Feb 2021 17:00:11 -0400</pubDate>
-      
-      <guid>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/vocabulary/</guid>
-      <description>Wanikani uses a structured repetition system as the backbone of its approach to teaching the kanji. To help reinforce the readings it also has a ton of vocabulary to learn. To help me keep track of this vocubulary and get some extra reading practice I have created some printable vocabulary sheets. Think of these as cheat sheets or study aids rather than as flashcards.
- Wankikani vocabulary, levels 1 &amp;ndash; 20 Wankikani vocabulary, levels 21 &amp;ndash; 40 Wankikani vocabulary, levels 41 &amp;ndash; 60  </description>
-    </item>
-    
-    <item>
-      <title>Writing Practice</title>
-      <link>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/writing-practice/</link>
-      <pubDate>Tue, 26 Jan 2021 17:36:11 -0400</pubDate>
-      
-      <guid>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/writing-practice/</guid>
-      <description>These writing practice sheets are intended as clear, efficient and clutter-free printable worksheets for practicing japanese writing with a pen, pencil, brush or brush pen. They have no english translations, and in the case of kanji, just a single, often onyomi reading. The point here is focusing on the character, keeping out english clutter and not including all linguistic information you might want about the item.
-kana  ひらがな / a4 paper ひらがな / a4 paper, smaller characters カタカナ / a4 paper カタカナ / a4 paper, smaller characters  kanji These grew out of my use of Wanikani an online service for learning a great many kanji.</description>
+      <guid>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/</guid>
+      <description>Wanikani has been a great way to study the kanji. What is also great about it, is the open data framework that it employs, enabling anyone who joins to get access to a huge data set of kanji, readings, meanings, mnenomics, levels in WK, JLPT, JOYO, etc. This data can be used for all kinds of purposes &amp;ndash; I have used it as input for various projects including:</description>
     </item>
     
     <item>
@@ -87,30 +65,30 @@ This site is built with a static site generator called hugo which takes a collec
     </item>
     
     <item>
+      <title>Science or Superstition</title>
+      <link>https://g-w-matthews.com/edu/science/</link>
+      <pubDate>Sat, 27 Jun 2020 09:37:15 -0400</pubDate>
+      
+      <guid>https://g-w-matthews.com/edu/science/</guid>
+      <description>&lt;p&gt;In recent years I&amp;rsquo;ve been teaching a course at Plymouth State University called &amp;ldquo;Science or Superstition.&amp;rdquo; This is a general education course that explores the history and philosophy of science, as well as the ways we tend to get things wrong when we attempt to explain and describe the world around us.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Philosophy</title>
+      <link>https://g-w-matthews.com/edu/intro/</link>
+      <pubDate>Sat, 27 Jun 2020 09:37:05 -0400</pubDate>
+      
+      <guid>https://g-w-matthews.com/edu/intro/</guid>
+      <description>&lt;p&gt;In addition to ethics I also regularly teach Introduction to Philosophy online at Penn College. In spite of the fact that this course can only skim the surface of philosophical debate and analysis I never get bored with this course.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Ethics</title>
       <link>https://g-w-matthews.com/edu/ethics/</link>
       <pubDate>Sat, 27 Jun 2020 09:35:37 -0400</pubDate>
       
       <guid>https://g-w-matthews.com/edu/ethics/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been teaching Ethics courses online at the Pennsylvania College of Technology for about twenty years.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Science Slideshows</title>
-      <link>https://g-w-matthews.com/edu/science/science-slideshows/</link>
-      <pubDate>Fri, 26 Jun 2020 17:36:11 -0400</pubDate>
-      
-      <guid>https://g-w-matthews.com/edu/science/science-slideshows/</guid>
-      <description>&lt;p&gt;This is all pretty self-explanatory &amp;ndash; these are some slideshows, produced once again with xaringan and R-Studio and open for reuse and remixing.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Intro Slideshows</title>
-      <link>https://g-w-matthews.com/edu/intro/intro-slideshows/</link>
-      <pubDate>Fri, 26 Jun 2020 16:43:05 -0400</pubDate>
-      
-      <guid>https://g-w-matthews.com/edu/intro/intro-slideshows/</guid>
-      <description>&lt;p&gt;These slideshows were created for use in on online Introduction to Philosophy course.&lt;/p&gt;</description>
     </item>
     
   </channel>
