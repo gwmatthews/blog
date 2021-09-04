@@ -29,12 +29,7 @@ publishDir   = "public"
   images = [""]
 
   # Default theme "light" or "dark"
- # Default theme "light" or "dark"
-  #
   defaultTheme = "dark"
-#  themeColor = "#1b1c1d"
-
-
   
 # Social icons
 [[params.social]]
@@ -42,10 +37,14 @@ publishDir   = "public"
   url  = "https://twitter.com/geoslack"
 
 [[params.social]]
+  name = "discord"
+  url  = "https://discord.com/users/726650756849205319"
+
+[[params.social]]
   name = "github"
   url  = "https://github.com/gwmatthews"
 
-  [[params.social]]
+[[params.social]]
   name = "instagram"
   url  = "https://instagram.com/geoslack"
 
@@ -85,12 +84,15 @@ publishDir   = "public"
     identifier = "cv"
     name       = "cv"
     url        = "/cv"
-	[[menu.main]]
+  [[menu.main]]
     identifier = "edu"
     name       = "edu"
     url        = "/edu"
   [[menu.main]]
+    identifier = "medium"
+    name       = "medium"
+    url        = "/medium"
+  [[menu.main]]
     identifier = "日本語"
     name       = "日本語"
     url        = "/日本語"
-
