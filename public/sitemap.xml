@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://g-w-matthews.com/tags/</loc>
-    <lastmod>2021-02-24T17:00:11-04:00</lastmod>
-  </url><url>
-    <loc>https://g-w-matthews.com/tags/walking/</loc>
-    <lastmod>2021-02-24T17:00:11-04:00</lastmod>
-  </url><url>
-    <loc>https://g-w-matthews.com/medium/walking/</loc>
-    <lastmod>2021-02-24T17:00:11-04:00</lastmod>
-  </url><url>
     <loc>https://g-w-matthews.com/tags/japanese/</loc>
     <lastmod>2021-02-23T17:05:11-04:00</lastmod>
   </url><url>
@@ -21,6 +12,9 @@
     <lastmod>2021-02-23T17:05:11-04:00</lastmod>
   </url><url>
     <loc>https://g-w-matthews.com/tags/language/</loc>
+    <lastmod>2021-02-23T17:05:11-04:00</lastmod>
+  </url><url>
+    <loc>https://g-w-matthews.com/tags/</loc>
     <lastmod>2021-02-23T17:05:11-04:00</lastmod>
   </url><url>
     <loc>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/vocabulary/</loc>
@@ -34,9 +28,6 @@
   </url><url>
     <loc>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/</loc>
     <lastmod>2021-01-02T17:36:11-04:00</lastmod>
-  </url><url>
-    <loc>https://g-w-matthews.com/medium/</loc>
-    <lastmod>2021-01-01T09:35:37-04:00</lastmod>
   </url><url>
     <loc>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2021-01-01T09:35:37-04:00</lastmod>
