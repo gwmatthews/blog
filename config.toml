@@ -70,7 +70,7 @@ publishDir   = "public"
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-  # And you can even create generic menu
+# And you can even create generic menu
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -84,14 +84,14 @@ publishDir   = "public"
     identifier = "cv"
     name       = "cv"
     url        = "/cv"
-  [[menu.main]]
-    identifier = "edu"
-    name       = "edu"
-    url        = "/edu"
-  #[[menu.main]]
-  #  identifier = "medium"
-  #  name       = "medium"
-  #  url        = "/medium"
+#  [[menu.main]]
+#    identifier = "edu"
+#    name       = "edu"
+#    url        = "/edu"
+#[[menu.main]]
+#  identifier = "medium"
+#  name       = "medium"
+#  url        = "/medium"
   [[menu.main]]
     identifier = "日本語"
     name       = "日本語"
