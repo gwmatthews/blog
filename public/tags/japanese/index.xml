@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 23 Feb 2021 17:05:11 -0400</lastBuildDate><atom:link href="https://g-w-matthews.com/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Aug 2021 17:36:11 -0400</lastBuildDate><atom:link href="https://g-w-matthews.com/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wanikani goods</title>
+      <link>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/</link>
+      <pubDate>Mon, 02 Aug 2021 17:36:11 -0400</pubDate>
+      
+      <guid>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/</guid>
+      <description>Wanikani has been a great way to study the kanji. What is also great about it, is the open data framework that it employs, enabling anyone who joins to get access to a huge data set of kanji, readings, meanings, mnenomics, levels in WK, JLPT, JOYO, etc. This data can be used for all kinds of purposes &amp;ndash; I have used it as input for various projects including:</description>
+    </item>
+    
     <item>
       <title>Kanji Book</title>
       <link>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/kanji-book/</link>
@@ -37,15 +46,6 @@ There are two ways to print these.
       <guid>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/writing-practice/</guid>
       <description>These writing practice sheets are intended as clear, efficient and clutter-free printable worksheets for practicing japanese writing with a pen, pencil, brush or brush pen. They have no english translations, and in the case of kanji, just a single, often onyomi reading. The point here is focusing on the character, keeping out english clutter and not including all linguistic information you might want about the item.
 kana  ひらがな / a4 paper ひらがな / a4 paper, smaller characters カタカナ / a4 paper カタカナ / a4 paper, smaller characters  kanji These grew out of my use of Wanikani an online service for learning a great many kanji.</description>
-    </item>
-    
-    <item>
-      <title>Wanikani goods</title>
-      <link>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/</link>
-      <pubDate>Sat, 02 Jan 2021 17:36:11 -0400</pubDate>
-      
-      <guid>https://g-w-matthews.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/wanikani-goods/</guid>
-      <description>Wanikani has been a great way to study the kanji. What is also great about it, is the open data framework that it employs, enabling anyone who joins to get access to a huge data set of kanji, readings, meanings, mnenomics, levels in WK, JLPT, JOYO, etc. This data can be used for all kinds of purposes &amp;ndash; I have used it as input for various projects including:</description>
     </item>
     
   </channel>
