@@ -1,7 +1,7 @@
 ---
 title: "Walking With Dogen"
 date: 2021-02-24T17:00:11-04:00
-draft: false
+draft: true
 tags: ["walking"]
 category: ["zen"]
 blackFriday: 
